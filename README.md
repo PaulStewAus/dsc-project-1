@@ -1,6 +1,6 @@
 # dsc-project-1
 
-Project 1 Summary - Microsoft is considering its ability to enter into the movie production industry. This project analyses the feasibility of current movies in the box office and how to best enter it. We will primarily consider the Return on Investment (RoI) verses other factors. � RoI varies through many factors, with the most influential being the genre and release date. Microsoft can use this report to consider its focus on selection of movie scripts and timing of release.
+Project 1 Summary - Microsoft is considering its ability to enter into the movie production industry. This project analyses the feasibility of current movies in the box office and how to best enter it. We will primarily consider the Return on Investment (RoI) verses other factors. RoI varies through many factors, with the most influential being the genre and release date. Microsoft can use this report to consider its focus on selection of movie scripts and timing of release.
 
 Business Objective Microsoft seeks actionable insights that the head of Microsoft’s new movie studio would be able to use in decision making. Microsoft may be able to improve its focus on movie script selection and apply a targeted release schedule to increase the likelihood of a successful entry to the movie production industry. Considering historical data will allow Microsoft to better understand the market conditions and limit risk when investigating the types of movies to investigate and release schedule.
 
